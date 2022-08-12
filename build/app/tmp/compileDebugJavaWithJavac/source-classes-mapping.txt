@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/whatsapp2/name/BuildConfig.java
+ com.whatsapp2.name.BuildConfig
