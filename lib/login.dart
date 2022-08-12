@@ -37,7 +37,7 @@ class _LoginWidgetState extends State<LoginWidget> {
     setState(() {});
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Login"),
+        title: const Text("Login yuk"),
         centerTitle: true,
         elevation: 20,
         /*bikin icon di posisi actions (kanan atas)*/
